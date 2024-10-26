@@ -1,0 +1,25 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e9f7f2;
+    color: blue;
+}
+
+p {
+    width: 800px;
+    margin: 0 auto;
+}
+
+header {
+    background-color: #002244;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.A {
+    border: 5px solid black;
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(199, 176, 221);
+}
